@@ -35,4 +35,4 @@ Validate on real-world, diverse datasets across industries. Incorporate time-ser
 - [Link to Presentation](Presentation/EmployeeAttritionPresentation.pptx)
 
 ##### Contact and Further Information
-For questions or collaboration, contact Faranak Yousefi at [your.email@example.com]. Additional resources: GitHub repository [link if available].
+For questions or collaboration, contact Faranak Yousefi. Additional resources:[[GitHub Repository]](https://github.com/Faranakysf/PredictEmployeeAttrition).
